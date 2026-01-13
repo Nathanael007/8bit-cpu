@@ -7,8 +7,6 @@
 
 A fully functional 8-bit CPU implemented in Logisim Evolution, featuring a custom instruction set architecture (ISA), pipelined execution, and comprehensive hazard detection mechanisms. This project demonstrates low-level computer architecture principles including datapath design, control unit implementation, and memory hierarchies.
 
-![CPU Architecture](docs/cpu_architecture_diagram.png)
-
 ---
 
 ## 📋 Table of Contents
