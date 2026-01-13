@@ -288,16 +288,13 @@ Convert to hex format for `RAMcontent.txt` (see [docs/ISA_REFERENCE.md](docs/ISA
 Detailed documentation is available in the `docs/` directory:
 
 - **[ISA_REFERENCE.md](docs/ISA_REFERENCE.md)** — Complete instruction set reference with encoding details
-- **[MICROCODE.md](docs/MICROCODE.md)** — Microcode state machine and control signal explanations
-- **[PIPELINE.md](docs/PIPELINE.md)** — Detailed pipeline architecture and hazard handling
 - **[CONTROL_SIGNALS.md](docs/CONTROL_SIGNALS.md)** — All 21 control signals and their functions
-- **[genericcpu.pdf](docs/genericcpu.pdf)** — Original reference design document
+- **[QUICK_START.md](docs/QUICK_START.md)** — Get up and running in 5 minutes
 - **[truthtable.txt](docs/truthtable.txt)** — Complete control ROM truth table
 
 ---
 
 ## 📁 Project Structure
-
 ```
 8-bit-cpu/
 ├── circuits/
@@ -306,18 +303,15 @@ Detailed documentation is available in the `docs/` directory:
 │   ├── RAMcontent.txt              # Test program (hex format)
 │   └── expected_output.txt         # Expected register states
 ├── assembly/
-│   ├── test_program.asm            # Human-readable assembly
-│   └── examples/                   # Additional example programs
+│   └── test_program.asm            # Human-readable assembly with breakdown
 ├── docs/
 │   ├── ISA_REFERENCE.md            # Instruction set documentation
-│   ├── MICROCODE.md                # Control unit documentation
-│   ├── PIPELINE.md                 # Pipeline architecture
 │   ├── CONTROL_SIGNALS.md          # Control signal reference
-│   ├── genericcpu.pdf              # Reference design
-│   ├── truthtable.txt              # Control ROM table
-│   └── original_assignment.md      # Original project specification
+│   ├── QUICK_START.md              # Quick start guide
+│   └── truthtable.txt              # Control ROM table
 ├── README.md                       # This file
-└── LICENSE                         # MIT License
+├── LICENSE                         # MIT License
+└── .gitignore                      # Git ignore rules
 ```
 
 ---
